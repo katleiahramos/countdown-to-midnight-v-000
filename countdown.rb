@@ -1,5 +1,5 @@
 #write your code here
-number = 0
+
 def countdown(number)
   when number > 0
     number = number - 1
