@@ -1,9 +1,10 @@
 #write your code here
-number = 0 
+number = 0
 def countdown(number)
-whenn number > 0 
-  number = number - 1
-  puts "#{number} SECOND(S)!"
-  
-  
+  when number > 0
+    number = number - 1
+    puts "#{number} SECOND(S)!"
+  end
+  puts "HAPPY NEW YEAR!"
+
 end
